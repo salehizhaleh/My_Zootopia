@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a795f0d-90be-4f73-a58a-b7a04ae6a1ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/My_Zootopia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_Zootopia.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/animals_web_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/animals_web_generator.py" afterDir="false" />
     </list>
